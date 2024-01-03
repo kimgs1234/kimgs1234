@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=welcome%20to%20gyeongseok's%20github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=header&text=welcome%20to%20gyeongseok's%20github&fontSize=50)
 
 ## 📝 사용기술 📝
 <div style="display:flex; flex-direction:row;">
