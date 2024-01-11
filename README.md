@@ -19,7 +19,10 @@
 <div style="display:flex; flex-direction:row;">
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717.svg?&style=flat-squar&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-44C1C5.svg?&style=flat-squar&logo=notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-squar&logo=figma&logoColor=white"/>
+
 </div><br>
 
 
